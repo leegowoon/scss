@@ -33,4 +33,5 @@
 
 # #인터플레이션방법
 ![image](https://github.com/leegowoon/scss/assets/145514701/97b05957-8495-491c-93dd-bced784139d9)
+![image](https://github.com/leegowoon/scss/assets/145514701/c2462820-4d53-4edb-8943-54def2c04b07)
 
