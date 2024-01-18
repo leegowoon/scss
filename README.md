@@ -28,3 +28,9 @@
 # #변수만들기
 # scss에서 변수 --> $로 시작한다(영문, 숫자, -, _)만 사용할 수 있다. (※숫자로 시작하면 안됨)
 
+![image](https://github.com/leegowoon/scss/assets/145514701/b5ae4fd2-942b-460a-aa99-053c8f1e963b)
+
+
+# #인터플레이션방법
+![image](https://github.com/leegowoon/scss/assets/145514701/97b05957-8495-491c-93dd-bced784139d9)
+
