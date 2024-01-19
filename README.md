@@ -31,7 +31,7 @@
 ![image](https://github.com/leegowoon/scss/assets/145514701/b5ae4fd2-942b-460a-aa99-053c8f1e963b)
 
 
-# #인터플레이션방법
+# #인터플레이션방법 -- 보간법 :변수나 표현식
 ![image](https://github.com/leegowoon/scss/assets/145514701/97b05957-8495-491c-93dd-bced784139d9)
 ![image](https://github.com/leegowoon/scss/assets/145514701/c2462820-4d53-4edb-8943-54def2c04b07)
 
